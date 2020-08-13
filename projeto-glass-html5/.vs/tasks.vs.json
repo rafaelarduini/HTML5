@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "tarefa-testejs02",
+      "appliesTo": "testejs02",
+      "type": "launch"
+    }
+  ]
+}
